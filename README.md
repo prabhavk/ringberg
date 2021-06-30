@@ -1,1 +1,1 @@
-# ringberg
+# Repository for the Ringberg retreat
