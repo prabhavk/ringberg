@@ -17,6 +17,6 @@ def Fibonacci(n): # What is the nth number in the Fibonacci series F(n) = F(n-1)
 
 
 def addition(x):
-    x = x+1
+    x = x*2
     return (x)
 
