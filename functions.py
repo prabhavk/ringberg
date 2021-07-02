@@ -13,3 +13,10 @@ def Fibonacci(n): # What is the nth number in the Fibonacci series F(n) = F(n-1)
         return (1)
     else:
         return (Fibonacci(n-1) + Fibonacci(n-2))
+
+
+
+def addition(x):
+    x = x+1
+    return (x)
+
